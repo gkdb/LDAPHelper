@@ -1,0 +1,8 @@
+ldaphelper is Copyright (c) 2008 by Matt Butcher.
+
+You may use the software under the terms of one of the two following licenses:
+
+1. An MIT-like license (MIT.txt).
+2. The GPL, version 2 (GPL.txt).
+
+The choice is yours.
